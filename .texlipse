@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Sun Oct 14 12:08:35 CEST 2012
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=prvo_pred.tex
+outputFile=prvo_pred.pdf
+langSpell=en
+markDer=true
+srcDir=
